@@ -16,7 +16,7 @@ const Contact = () => {
                                         type="text"
                                         name="firstName"
                                         id="firstName"
-                                        className=" w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6"
+                                        className="w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6 focus:outline-none px-4"
                                     />
                                 </div>
                             </div>
@@ -29,7 +29,7 @@ const Contact = () => {
                                         type="text"
                                         name="lastName"
                                         id="lastName"
-                                        className=" w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6"
+                                        className="w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6 focus:outline-none px-4"
                                     />
                                 </div>
                             </div>
@@ -43,7 +43,7 @@ const Contact = () => {
                                         name="email"
                                         id="email"
                                         autoComplete="email"
-                                        className=" w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6"
+                                        className="w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6 focus:outline-none px-4"
                                     />
                                 </div>
                             </div>
@@ -57,7 +57,7 @@ const Contact = () => {
                                         name="phone-number"
                                         id="phone-number"
                                         autoComplete="tel"
-                                        className=" w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6"
+                                        className="w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6 focus:outline-none px-4"
                                     />
                                 </div>
                             </div>
@@ -70,7 +70,7 @@ const Contact = () => {
                                         name="message"
                                         id="message"
                                         rows={4}
-                                        className=" w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6"
+                                        className="w-full py-2 text-gray-900 border-none rounded-md ring-1 ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-[#6F47EB] sm:text-sm sm:leading-6 focus:outline-none px-4"
                                     />
                                 </div>
                             </div>
