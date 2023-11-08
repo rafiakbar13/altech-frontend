@@ -3,7 +3,7 @@ import Team from "../assets/undraw_team_spirit_re_yl1v.svg"
 
 const About = () => {
     return (
-        <div className="py-12 bg-white sm:py-32">
+        <div id="about" className="py-12 bg-white sm:py-32">
             <div className="flex flex-col-reverse items-center px-6 mx-auto max-w-7xl lg:px-8 lg:flex-row gap-x-3 gap-y-5">
                 <div className="max-w-2xl mx-auto lg:mx-0">
                     <h2 className="mt-2 text-4xl font-bold tracking-tight text-[#6b40ed] sm:text-6xl">Altech Company</h2>

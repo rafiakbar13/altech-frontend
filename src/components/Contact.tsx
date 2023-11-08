@@ -2,7 +2,7 @@
 import Box from '../assets/Box.svg'
 const Contact = () => {
     return (
-        <div className="py-8 bg-white">
+        <div id='contact' className="py-8 bg-white">
             <div className="flex flex-col justify-between mx-5 max-w-7xl w-12/12 md:flex-row gap-x-5">
                 <form action="#" method="POST" className="md:w-8/12">
                     <div className="max-w-xl p-8 mx-auto bg-white border border-gray-300 rounded-lg shadow-2xl">
