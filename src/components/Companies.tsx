@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Group from '../assets/Group.svg'
 import Group1 from '../assets/Group-1.svg'
 import Group2 from '../assets/Group-2.svg'

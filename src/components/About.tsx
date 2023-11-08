@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Team from "../assets/undraw_team_spirit_re_yl1v.svg"
 
 const About = () => {

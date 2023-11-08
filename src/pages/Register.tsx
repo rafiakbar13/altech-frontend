@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Link } from "react-router-dom";
 import Logo from '../assets/logo.svg'
 
@@ -6,7 +6,7 @@ import Logo from '../assets/logo.svg'
 const Register = () => {
     return (
         <div className="flex flex-col justify-center flex-1 min-h-full px-6 py-12 lg:px-8">
-            <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm bg-white rounded-md shadow-xl pt-4">
+            <div className="pt-4 mt-10 bg-white rounded-md shadow-xl sm:mx-auto sm:w-full sm:max-w-sm">
                 <div className='flex items-center justify-center gap-x-4'>
                     <Link to="/">
                         <img

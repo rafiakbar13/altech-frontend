@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Rectangle from '../assets/Rectangle 18.svg';
 import Vector2 from '../assets/Vector 2.svg';
 import Vector3 from '../assets/Vector 3.svg';
